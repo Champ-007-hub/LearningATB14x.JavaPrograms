@@ -6,5 +6,9 @@ System.out.println();
         System.out.printf("%d*2= %d", table, table*2);
         System.out.println();
         System.out.printf("%d*3= %d", table, table*3);
+        System.out.println();
+        System.out.printf("%d*3= %d", table, table*4);
+        System.out.println();
+        System.out.printf("%d*3= %d", table, table*5);
     }
 }
